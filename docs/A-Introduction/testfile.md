@@ -43,6 +43,11 @@ int main(void){
 	return 0;
 }
 ```
+## This is a sub-title
+You can put stuff here...
+
+### This is another
+You can put more stuff here...
 
 # LaTex
 

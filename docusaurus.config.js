@@ -5,19 +5,19 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'OER Course Title',
-  tagline: 'OER Tag/Keyword',
-  url: 'https://Seneca-ICTOER.github.io/',
-  baseUrl: '/OERTemplate/',
+  title: 'OER Test',
+  tagline: 'OER Test',
+  url: 'https://ishitahemantkamboj.github.io/',
+  baseUrl: '/cdotwikitest/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Seneca-ICTOER',
-  projectName: 'OERTemplate',
+  organizationName: '',
+  projectName: 'cdotwikitest',
   themeConfig: {
     navbar: {
-      title: 'OER Course Title',
+      title: 'OER Test',
       logo: {
         alt: 'Seneca College',
         src: 'img/logo.svg',
@@ -31,7 +31,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'OER Course Title',
+          title: 'OER Test',
           items: [
             {
               label: 'Contents',
